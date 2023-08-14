@@ -3,4 +3,4 @@
 Calculadora hecha en Python usando la librería Tkinter (Proyecto de practica)
 
 Imagen:
-https://raw.githubusercontent.com/FernandoPZ/Calculadora01_Python/main/Calculadora.png
+<img align="right" alt="img" src="Calculadora.png" width="50%" height="auto" />
